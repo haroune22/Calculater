@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    scroll-behavior: smooth;
+}
+.Buttons {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 50px;
+    width: 400px;
+    margin-left: 350px;
+   
+
+}
+.Title{
+    color: black;
+    text-align: center;
+    font-size: 2.2rem;
+}
+.Input{
+    background-color: rgb(54, 171, 116);
+    color: aliceblue;
+    width: 200px;
+    height: 40px;
+    border: white;
+    align-items: center;
+    margin-left: 500px;
+    text-align: right;
+
+}
+.Countainer{
+    align-items: center;
+
+}
+
